@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Denis-python
-- 👀 I’m interested in junior Python position(Data science, ML)
+- 👀 I’m interested in junior Python developer position(Data science, ML)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me denis.kozarenko@gmail.com, +7(912)6768555
